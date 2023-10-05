@@ -1,0 +1,8 @@
+.tzbet a{
+    text-decoration: none;
+    color: rgb(195,186,144)!important;
+}
+.tzbet a:hover{
+    text-decoration: none;
+    color:darkgreen!important; ;   
+}

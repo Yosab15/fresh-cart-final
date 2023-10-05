@@ -1,0 +1,5 @@
+.col-4 .card:hover{
+    box-shadow: 1px 1px 10px #4fa74f;
+    cursor: pointer;
+    transition: 0.5s;
+}
